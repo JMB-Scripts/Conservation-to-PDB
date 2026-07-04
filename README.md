@@ -31,13 +31,14 @@
 
   - PyMOL
     
-<img width="1232" height="982" alt="image" src="https://github.com/user-attachments/assets/b907a9b1-2b5b-40fe-8a1f-5faab9d3898e" />
+   <img width="1117" height="757" alt="image" src="https://github.com/user-attachments/assets/3369be53-188c-4369-b979-bc42fab8ab5e" />
 
 
   - ChimeraX
 
-<img width="1139" height="982" alt="image" src="https://github.com/user-attachments/assets/16b1c41d-7325-420d-b475-69e3f7493c1a" />
+<img width="760" height="775" alt="image" src="https://github.com/user-attachments/assets/23932c0c-c1d2-4686-acc7-ebe95fb7411b" />
 
+(small bug with the ramp, I'm working on it)
 
 - Simple graphical user interface.
 - Cross-platform (Linux, macOS and Windows).
