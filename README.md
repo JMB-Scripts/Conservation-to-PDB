@@ -19,7 +19,8 @@
 - Generates an interactive **HTML alignment viewer**.
 - Supports all **Matplotlib** colormaps, including custom palettes (e.g. MolNympheas).
   
-<img width="932" height="900" alt="image" src="https://github.com/user-attachments/assets/793883a3-88c7-414e-a560-fb1e184c8bba" />
+<img width="932" height="900" alt="image" src="https://github.com/user-attachments/assets/30356ca9-685f-487f-b18c-79ae692998a2" />
+
 
 - Uses identical color palettes for:
   - Protein structures
